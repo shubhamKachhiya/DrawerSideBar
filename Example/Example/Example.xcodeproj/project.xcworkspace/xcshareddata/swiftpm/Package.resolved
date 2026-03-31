@@ -1,0 +1,15 @@
+{
+  "originHash" : "436b2ae28a5da74e30b8ac6c6a6a03b713cad9cc7946ebcc4e4b28561b8d180c",
+  "pins" : [
+    {
+      "identity" : "drawersidebar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shubhamKachhiya/DrawerSideBar.git",
+      "state" : {
+        "revision" : "d688d085034023e7bbb02ae10f411804d90ca70d",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
